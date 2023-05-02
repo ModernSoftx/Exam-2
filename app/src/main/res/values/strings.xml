@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android App Development Exam II</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="error_messages"> Wrong Credentials! the username is  %1$s!</string>
+    <string name="welcome_messages"> Wrong Credentials! the username is  %1$s!</string>
+    <string name="submit">Submit</string>
+</resources>
